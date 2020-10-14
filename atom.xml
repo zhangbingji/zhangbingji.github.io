@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>bjblog</title>
+  
+  
+  <link href="https://zhangbingji.github.io/atom.xml" rel="self"/>
+  
+  <link href="https://zhangbingji.github.io/"/>
+  <updated>2020-10-14T00:44:19.261Z</updated>
+  <id>https://zhangbingji.github.io/</id>
+  
+  <author>
+    <name>zhangbingji</name>
+    
+  </author>
+  
+  <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>first blog</title>
+    <link href="https://zhangbingji.github.io/2020/10/14/hello-world/"/>
+    <id>https://zhangbingji.github.io/2020/10/14/hello-world/</id>
+    <published>2020-10-13T23:04:11.055Z</published>
+    <updated>2020-10-14T00:44:19.261Z</updated>
+    
+    <content type="html"><![CDATA[<p>testing</p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;p&gt;testing&lt;/p&gt;
+</summary>
+      
+    
+    
+    
+    
+  </entry>
+  
+</feed>
