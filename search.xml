@@ -1,20 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
-<search> 
-  
-  
-    
-    <entry>
-      <title>first blog</title>
-      <link href="/zhangbingji.github.io/2020/10/14/hello-world/"/>
-      <url>/zhangbingji.github.io/2020/10/14/hello-world/</url>
-      
-        <content type="html"><![CDATA[<p>testing</p>]]></content>
-      
-      
-      
-    </entry>
-    
-    
-  
-  
+<search>
+  <entry>
+    <title>first blog</title>
+    <url>/zhangbingji.github.io/2020/10/14/hello-world/</url>
+    <content><![CDATA[<p>testing</p>
+]]></content>
+  </entry>
 </search>
